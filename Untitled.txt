@@ -1,0 +1,1 @@
+git clone https://github.com/basa99123/-NXT_TRENDZ NXT_TRENDZ && mv NXT_TRENDZ/* ../enhancementOfNxtTrendzPayment/ && mv NXT_TRENDZ/.* ../enhancementOfNxtTrendzPayment
